@@ -4,4 +4,4 @@ The 0xBitcoin Foundation was founded in July of 2018 to promote the use, accepta
 
 ## Please bear with us while the site is under construction and check back for updates!
 
-<img src="0xBitcoinFoundation.org/Qat_Moon_shirt.png" alt=" 0xBitcoinFoundation.org/Qat_Moon_shirt.png ">
+<img src="/0xBitcoinFoundation.org/Qat_Moon_shirt.png " alt=" /0xBitcoinFoundation.org/Qat_Moon_shirt.png ">
